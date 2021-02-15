@@ -1,4 +1,5 @@
-# study_on_inapp_ads
+# Study on in-app ads
+
 For this project, I'll pretend I'm working as data analysts for a company that builds Android and iOS mobile apps. This company make their apps available on Google Play and the App Store.  They only build apps that are free to download and install, and their main source of revenue consists of in-app ads.
 
 They only build apps that are free to download and install, and their main source of revenue consists of in-app ads. This means our (the company I work for) revenue for any given app is mostly influenced by the number of users who use our app — the more users that see and engage with the ads, the better. Our goal for this project is to analyze data to help our developers understand what type of apps are likely to attract more users.
@@ -19,12 +20,12 @@ It is important to clarify a few things in the header's row for the latest of th
 
 That list represents all the columns this dataset has, so I will explain the ones that I think are more difficult to grasp:
 
-rating_count_tot: User Rating counts (for all version)
-rating_count_ver: User Rating counts (for current version)
-user_rating_ver: Average User Rating value (for current version)
-ver: Latest version code
-cont_rating: Content Rating
-sup_devices: Number of supporting devices
-ipadSc_urls.num: Number of screenshots showed for display
-lang.num: Number of supported languages
-vpp_lic: Vpp Device Based Licensing Enabled
+- rating_count_tot: User Rating counts (for all version)
+- rating_count_ver: User Rating counts (for current version)
+- user_rating_ver: Average User Rating value (for current version)
+- ver: Latest version code
+- cont_rating: Content Rating
+- sup_devices: Number of supporting devices
+- ipadSc_urls.num: Number of screenshots showed for display
+- lang.num: Number of supported languages
+- vpp_lic: Vpp Device Based Licensing Enabled
